@@ -102,5 +102,5 @@ And other role personalized fields
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD 2-Clause - see the [LICENSE](LICENSE) file for details.
 
